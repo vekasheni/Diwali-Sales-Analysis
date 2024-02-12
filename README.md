@@ -19,6 +19,7 @@ This documentation presents a comprehensive analysis of sales data collected dur
 ### Gender Analysis
 
 A bar chart was plotted to visualize the distribution of purchases based on gender. The analysis revealed that the majority of buyers were female, and their purchasing power exceeded that of male customers.
+
 ![image](https://github.com/vekasheni/Diwali-Sales-Analysis/assets/146317452/6b1b5ccd-b4ff-4f5e-a984-5b81f28c7b3e)
 
 ### Age Group Analysis
@@ -34,6 +35,7 @@ The findings indicated that the most active buyers were females in the 26-35 age
 The analysis extended to examining the top 10 states contributing to both total orders and total sales. Uttar Pradesh, Maharashtra, and Karnataka emerged as significant contributors to both categories.
 
 ![image](https://github.com/vekasheni/Diwali-Sales-Analysis/assets/146317452/b0f84bf5-a8f0-4348-8466-6844348ec7e0)
+
 
 ![image](https://github.com/vekasheni/Diwali-Sales-Analysis/assets/146317452/34ec7d62-228f-4571-b2a8-06df36dc642f)
 
